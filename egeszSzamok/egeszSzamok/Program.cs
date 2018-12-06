@@ -10,8 +10,11 @@ namespace egeszSzamok
     {
         static void Main(string[] args)
         {
-            int a;
-            int b;
+            int a=0;
+            Console.WriteLine("a="+a);
+            int b=0;
+            Console.WriteLine("b=" + b);
+            Console.ReadKey();
         }
     }
 }
